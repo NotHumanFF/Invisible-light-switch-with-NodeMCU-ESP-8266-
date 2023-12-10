@@ -57,7 +57,7 @@ button:hover{
 
 @media only screen and (max-width: 767px) {
     .hide-on-phone {
-      display: none; /* Hide the element with this class on phones */
+      display: none; 
     }
     .mediumtext{
         font-size:30px;
